@@ -5,7 +5,7 @@ fun solution7(
     friends: List<List<String>>,
     visitors: List<String>
 ): List<String> {
-//    TODO("프로그램 구현")
+      TODO("프로그램 구현")
 
     val scoreMap = mutableMapOf<String,Int>()
     val friendMap = mutableMapOf<String,MutableSet<String>>()

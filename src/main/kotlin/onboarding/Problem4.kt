@@ -1,7 +1,7 @@
 package onboarding
 
 fun solution4(word: String): String {
-     TODO("프로그램 구현")
+    TODO("프로그램 구현")
 
     return buildString {
         for(char in word){

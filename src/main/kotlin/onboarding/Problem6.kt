@@ -9,7 +9,7 @@ fun isOverlap(nick1 : String,nick2 : String) : Boolean {
     return  false
 }
 fun solution6(forms: List<List<String>>): List<String> {
-      TODO("프로그램 구현")
+    TODO("프로그램 구현")
     //["jm@email.com", "제이엠"]
     return buildSet{
         for(i in forms.indices){

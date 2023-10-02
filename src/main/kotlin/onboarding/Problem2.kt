@@ -1,7 +1,7 @@
 package onboarding
 
 fun solution2(cryptogram: String): String {
-    TODO("프로그램 구현")
+
 
     val stack = ArrayDeque<Char>()
     for(e : Char in cryptogram){

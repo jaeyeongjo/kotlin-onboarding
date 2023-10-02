@@ -14,7 +14,7 @@ fun getMaxSumOrProduct(page : String) : Int{
     return max(plusNum,multiplyNum)
 }
 fun solution1(pobi: List<Int>, crong: List<Int>): Int {
-    TODO("프로그램 구현")
+    
 //    포비가 이긴다면 1, 크롱이 이긴다면 2, 무승부는 0, 예외사항은 -1
 
     if (isInvalid(pobi,crong)) return  -1

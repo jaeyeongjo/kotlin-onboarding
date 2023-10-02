@@ -24,7 +24,7 @@ fun solution7(
     }
 
     for(visitor in visitors){
-        scoreMap[visitor] = scoreMap.getOrDefault(visitor,0)+1
+        scoreMap[visitor] = scoreMap.getOrDefault(visitor,0)+1  ///
     }
 
 
